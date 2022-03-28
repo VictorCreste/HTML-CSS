@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Cinta;
+    src: url('/fonts/Saling\ Cinta.otf'); format:('opentype')
+}
+body{
+    background-color: #6BFA9B;
+}
+.apenas {
+    background-color: #52fc8b;
+    font-family: 'Cinta', sans-serif;
+    font-size: 6em;
+    text-align: center;   
+    font-weight: lighter;
+}
+h2{
+    font-size: 3em;
+}
+p {
+    font-size: 2em;
+}
+#imagem {
+    width: 200px;
+    left: 100px;
+
+}

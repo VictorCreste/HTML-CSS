@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@font-face {
+    font-family: 'Android';
+    src: url('fontes/idroid.otf') format('opentype');
+}
+body {
+    background-color: #3DDC84;
+    margin: auto;
+    
+}
+
+
+
+#cabeça {
+    background-image: linear-gradient(to bottom, #3DDC84, #2FA866, #034e24); 
+    padding: 0px;
+}
+    
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    text-align: center ;
+    font-size: 60px;
+    font-weight: lighter    ;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    
+}
+
+.subtitulo {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center ;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    text-shadow: 1px 1px 8px black;
+    padding: 0px 0px 18px 0px;
+ }
+h2 {
+    font-family: 'Android', Helvetica, sans-serif;
+    text-decoration: none;
+    color: black;
+    margin: auto;
+}
+
+    .menu div { /*MENU*/
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    margin: 0px 0px 1px 22px;
+    padding: 3px 3px 3px 3px;
+    border-radius: 1em;
+    
+}
+ div > .home :hover {
+    background-color: rgb(16, 226, 51);
+    border-radius: 10px;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    
+
+}
+main {
+    background-color: rgb(255, 255, 255);
+    margin: 0px 49px 0px 91px;
+    box-shadow: 1px 1px 8px black;
+
+
+}
+
+.titulo1 {
+    font-size: 39px;
+    margin: 0px 0px 0px 1em;
+    color:#034e24
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-indent:50px;
+    text-align: justify;
+    font-size: 18px;
+    text-indent: auto;
+    text-shadow: 2px 2px 7px rgba(0, 0, 0, 0.446)
+    
+}
+color {
+    color: #034e24;
+}
+.h2 {
+    background-color: #3ddc8563;
+    margin: 0px 0px 0px 1em;
+    font-size: 35px;
+    color:#034e24
+    
+}
+img {
+    display: block;
+    margin-left: 16%;
+}
+.img {
+    display: block;
+    margin-left: 36%;
+}
+.video { 
+    background-color: #05af4f;
+    box-shadow: 2px 3px 6px black;
+    margin: -18px 23px 39px -3px;
+    padding: 38px 241px 37px 286px;
+}  
+footer { 
+    background-color: rgb(255, 255, 255);
+    margin: -25px 49px 0px 91px;
+    
+}
+.extra  {
+    margin: 0px 84px 0px 59px;
+    padding: 0px 0px 0px 0px;
+    border-radius: 12px 12px 0px 0px;
+    text-shadow: 1px 1px 7px black;
+    background-color: #3DDC84;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-indent:50px;
+    text-align: justify;
+    text-indent: auto;
+    text-shadow: 2px 2px 7px rgba(0, 0, 0, 0.446);
+    
+
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold ;
+    text-indent:50px;
+    text-align: justify;
+    font-size: 18px;
+    text-indent: auto;
+    text-shadow: 2px 2px 7px rgba(0, 0, 0, 0.446);
+    background-color: #03f77173;
+    margin: 0px 84px 0px 59px;
+    padding: 0px 0px 0px 0px;
+}
+.lista {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold ;
+    text-indent:50px;
+    text-align: justify;
+    font-size: 18px;
+    text-shadow: 2px 2px 7px rgba(0, 0, 0, 0.446);
+    background-color: #03f77173;
+    margin: 0px 84px 0px 59px;
+    padding: 22px 0px 0px 27px;
+
+}
+.lista2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold ;
+    text-indent:50px;
+    text-align: justify;
+    font-size: 18px;
+    text-shadow: 2px 2px 7px rgba(0, 0, 0, 0.446);
+    margin:-168px 84px -2px 600px;
+    padding: 22px 0px 0px 27px;
+}
+
+.final {
+    color: white;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    background-color: #105f32;
+}
+.textfinal {
+    text-align: center;
+    background-color: #03f77173 ;
+    margin: 0px 84px 0px 59px;
+    padding: 32px 0px 0px 39px;
+
+}
+.textfinal2 {
+    text-align: center;
+    background-color: #03f77173 ;
+    margin: 0px 84px 0px 59px;
+    padding: 32px 0px 0px 39px;
+    border-radius: 0px 0px 12px 12px ;
+}
